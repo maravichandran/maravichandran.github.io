@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! My name is Maya. I am currently an engineer at [Regrello](https://regrello.com) and am based in the NYC area. 
 
-Prior to joining Regrello, I completed an MSc in Advanced Computer Science at University of Oxford and an MPhil in Therapeutic Sciences at University of Cambridge on the Marshall Scholarship. I also hold a B.S. in Computer Science from Rutgers University-New Brunswick. I have interned at MongoDB, Bank of America Merrill Lynch, and the National Institutes of Health.
+Prior to joining Regrello, I completed an MSc in Advanced Computer Science at University of Oxford and an MPhil in Therapeutic Sciences at University of Cambridge on the [Marshall Scholarship](https://www.marshallscholarship.org/). I also hold a B.S. in Computer Science from Rutgers University-New Brunswick. I have interned at MongoDB, Bank of America Merrill Lynch, and the National Institutes of Health.
 
 My favorite hobbies are classical music, birding, hiking, and reading. 
 
