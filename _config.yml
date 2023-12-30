@@ -68,7 +68,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: maravichandran # your GitHub user name
-gitlab_username: maya_rav # your GitLab user name
+gitlab_username: # your GitLab user name
 x_username: maya_rav # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: maya-ravichandran # your LinkedIn user name
@@ -104,7 +104,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Email is the best way to reach me!
+  I'd love to hear from you! Email is the best way to reach me.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
