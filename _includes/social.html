@@ -116,3 +116,6 @@
             </div>
             {% include scripts/wechatModal.html %}
             {% endif %}
+            {%- if site.resume -%}
+            <a href="https://maravichandran.github.io/assets/pdf/{{ site.resume }}" title="Résumé"><i class="fa-solid fa-file-pdf"></i></a>
+            {% endif %}
