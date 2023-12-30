@@ -16,9 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Maya. I am currently an engineer at Regrello, and am based in New Jersey. 
+Hi! My name is Maya. I am currently an engineer at [Regrello](https://regrello.com), and am based in New Jersey. 
 
 Prior to joining Regrello, I completed an MSc in Advanced Computer Science at University of Oxford and an MPhil in Therapeutic Sciences at University of Cambridge on the Marshall Scholarship. I also hold a B.S. in Computer Science from Rutgers University-New Brunswick. I have interned at MongoDB, Bank of America Merrill Lynch, and the National Institutes of Health.
+
+My favorite hobbies are classical music, birding, hiking, and reading. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
