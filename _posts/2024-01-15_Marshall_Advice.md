@@ -40,7 +40,7 @@ The UK is a gorgeous country to live in and explore as well. So far, I’ve been
 
 ## Reasons not to apply
 
-- You only care about the prestige of the scholarship, and would be unhappy studying in the UK for two years.
+- You only care about the prestige of the scholarship, and would be unhappy living and studying in the UK for two years.
 - You don’t meet the eligibility requirements (US citizen, 3.7 GPA minimum, etc.) Check the website to confirm your eligibility.
 
 ## Is the Marshall Scholarship worth the time opportunity cost?
