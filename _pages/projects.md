@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
 description: Projects I've done for various things, including coursework,, internships, and research.
 nav: true

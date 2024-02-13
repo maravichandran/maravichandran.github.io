@@ -12,5 +12,5 @@ This project involved reproducing the [GraphRNN](https://arxiv.org/abs/1802.0877
 
 This project was done for a course project for the Oxford MSc in Advanced Computer Science. It was accepted to the NeurIPS 2023 GLFrontiers workshop as well. 
 
-(Paper link)[https://openreview.net/pdf?id=mstzBSOx2e]
-(Code link)[https://github.com/maravichandran/GraphRNN]
+[Paper link](https://openreview.net/pdf?id=mstzBSOx2e)
+[Code link](https://github.com/maravichandran/GraphRNN)
