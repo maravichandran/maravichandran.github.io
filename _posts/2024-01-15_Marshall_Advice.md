@@ -3,8 +3,8 @@ layout: post
 title: Marshall Scholarship Application Advice 
 date: 2024-01-15 22:00:00-0500
 description: Thoughts and advice on crafting an application for the Marshall Scholarship
-tags: comments
-categories: advice
+tags: 
+categories: 
 giscus_comments: true
 related_posts: false
 toc:
