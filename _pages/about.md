@@ -20,7 +20,7 @@ Hi! My name is Maya. I am currently an engineer at [Regrello](https://regrello.c
 
 Prior to joining Regrello, I completed an MSc in Advanced Computer Science at University of Oxford and an MPhil in Therapeutic Sciences at University of Cambridge on the [Marshall Scholarship](https://www.marshallscholarship.org/). I also hold a B.S. in Computer Science from Rutgers University-New Brunswick. I have interned at MongoDB, Bank of America Merrill Lynch, and the National Institutes of Health.
 
-My favorite hobbies are classical music, birding, hiking, and reading. 
+My favorite hobbies are birding (281 species and counting seen!), classical music (mostly vioin/piano), hiking, and reading (usually classic literature). 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
