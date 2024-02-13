@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Evergreen CI Data Pipeline
-description: Open-source MongoDB intern project
+description: Open-source MongoDB intern project; written in Go
 img: 
 importance: 2
 category: 
