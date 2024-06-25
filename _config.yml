@@ -120,7 +120,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Maya's Blog # blog_name will be displayed in your blog page
-blog_description: Notes that may be helpful to others # a simple whitespace theme for academics
+blog_description: 😊 # a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
 # Pagination
