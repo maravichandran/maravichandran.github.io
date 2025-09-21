@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Machine Learning Researcher/Engineer
+subtitle: Machine Learning Researcher
 
 profile:
   align: right
@@ -16,11 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Maya. I am currently a Machine Learning Research Intern at Netflix and am based in the NYC area. 
+Hi! My name is Maya. I am currently a Machine Learning Research Scientist at Netflix, where I'm working on AI agents. I am based in San Francisco. 
 
-Prior to joining Netflix, I was an ML Engineer at Regrello, where I worked on a multi-agent LLM system for auto-generating supply chain workflows. I completed an MSc in Advanced Computer Science at University of Oxford and an MPhil in Therapeutic Sciences at University of Cambridge on the [Marshall Scholarship](https://www.marshallscholarship.org/). I also hold a B.S. in Computer Science from Rutgers University-New Brunswick. I have interned at MongoDB, Bank of America Merrill Lynch, and the National Institutes of Health.
+Prior to joining Netflix, I was an ML Engineer at Regrello, where I worked on a multi-agent LLM system for auto-generating supply chain workflows. I completed an MSc in Advanced Computer Science at University of Oxford and an MPhil in Therapeutic Sciences at University of Cambridge on the [Marshall Scholarship](https://www.marshallscholarship.org/). I also hold a B.S. in Computer Science from Rutgers University-New Brunswick. I have interned at MongoDB, Bank of America Merrill Lynch, and the National Institutes of Health. Here's a link to my [resume](https://maravichandran.github.io/assets/pdf/Maya_Ravichandran_Resume.pdf). 
 
-My favorite hobbies are birding (286 species seen!), classical music (vioin/piano), hiking, and reading (usually classic literature). 
+My favorite hobbies are birding (286 species seen!), classical music (vioin/piano), and hiking. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
