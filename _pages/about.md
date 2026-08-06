@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: 
+  more_info: San Francisco, CA
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -16,11 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Maya. I am currently a Machine Learning Research Scientist at Netflix, where I'm working on AI agents. I am based in San Francisco. 
+Hi! My name is Maya. I am a Research Scientist on Netflix's Machine Learning & Inference Research team, where I work on open-ended research bets. I specialize in AI agent systems, and lately have been working on continually learning agent systems that improve over time from production and user signals. 
 
-Prior to joining Netflix, I was an ML Engineer at Regrello, where I worked on a multi-agent LLM system for auto-generating supply chain workflows. I completed an MSc in Advanced Computer Science at University of Oxford and an MPhil in Therapeutic Sciences at University of Cambridge on the [Marshall Scholarship](https://www.marshallscholarship.org/). I also hold a B.S. in Computer Science from Rutgers University-New Brunswick. I have interned at MongoDB, Bank of America Merrill Lynch, and the National Institutes of Health. Here's a link to my [resume](https://maravichandran.github.io/assets/pdf/Maya_Ravichandran_Resume.pdf). 
+Prior to joining Netflix, I was an ML Engineer at Regrello (acquired by Salesforce), where I worked on a agentic system for generating supply chain workflows. I completed an MSc in Advanced Computer Science at University of Oxford and an MPhil in Therapeutic Sciences at University of Cambridge on the [Marshall Scholarship](https://www.marshallscholarship.org/). I also hold a B.S. in Computer Science from Rutgers University-New Brunswick. Here's a link to my [resume](https://maravichandran.github.io/assets/pdf/Maya_Ravichandran_Resume.pdf). 
 
-My favorite hobbies are birding (286 species seen!), classical music (vioin/piano), and hiking. 
+My favorite hobbies are birding (306 species seen!), classical music (vioin/piano), and hiking. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
