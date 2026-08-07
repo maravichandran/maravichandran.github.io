@@ -20,7 +20,7 @@ Hi! My name is Maya. I am a Research Scientist on Netflix's Machine Learning & I
 
 Prior to joining Netflix, I was an ML Engineer at Regrello (acquired by Salesforce), where I worked on a agentic system for generating supply chain workflows. I completed an MSc in Advanced Computer Science at University of Oxford and an MPhil in Therapeutic Sciences at University of Cambridge on the [Marshall Scholarship](https://www.marshallscholarship.org/). I also hold a B.S. in Computer Science from Rutgers University-New Brunswick. Here's a link to my [resume](https://maravichandran.github.io/assets/pdf/Maya_Ravichandran_Resume.pdf). 
 
-My favorite hobbies are birding (306 species seen!), classical music (vioin/piano), and hiking. 
+My favorite hobbies are birding (306 species seen!), classical music (violin/piano), and hiking. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
